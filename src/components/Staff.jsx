@@ -50,11 +50,15 @@ const Staff = () => {
           <div className="flex flex-col gap-2 p-16 pb-0">
             <h3 className="text-2xl font-medium">Head TA</h3>
             <div className="frosted flex flex-col rounded-lg bg-violet-500">
-              <img className="aspect-square w-full rounded-t-lg object-contain" src="https://placehold.co/800x800" alt="Narek Harutyunyan"></img>
+              <img className="aspect-square w-full rounded-t-lg object-contain" src="../../public/Narek.png" alt="Narek Harutyunyan"></img>
               <div className="p-4">
                 <div className="text-md font-medium">Narek Harutyunyan</div>
-                <div className="text-sm text-slate-400">(pronouns)</div>
-                <div className="mt-2 text-sm text-slate-600">---</div>
+                <div className="text-sm text-slate-400">he/him</div>
+                <div className="mt-2 text-sm text-white">
+                Hi! I’m a junior from Armenia studying computer engineering.
+                My favorite activity is ziplining (we have very high and long ones in Armenia). 
+                I’m so excited for CS1952z this semester.
+                </div>
               </div>
             </div>
           </div>
@@ -63,11 +67,11 @@ const Staff = () => {
           <div className="flex flex-col gap-2 p-16 pb-0">
             <h3 className="text-2xl font-medium">TA</h3>
             <div className="frosted flex flex-col rounded-lg bg-violet-500">
-              <img className="aspect-square w-full rounded-t-lg object-contain" src="https://placehold.co/800x800" alt="Fuka Ikeda"></img>
+              <img className="aspect-square w-full rounded-t-lg object-contain" src="../../public/Fuka.jpeg" alt="Fuka Ikeda"></img>
               <div className="p-4">
                 <div className="text-md font-medium">Fuka Ikeda</div>
                 <div className="text-sm text-slate-400">(pronouns)</div>
-                <div className="mt-2 text-sm italic text-slate-600">
+                <div className="mt-2 text-sm italic text-white">
                   ---
                 </div>
               </div>
@@ -76,11 +80,13 @@ const Staff = () => {
           <div className="flex flex-col gap-2 p-16 pb-0">
             <h3 className="text-2xl font-medium">TA</h3>
             <div className="frosted flex flex-col rounded-lg bg-violet-500">
-              <img className="aspect-square w-full rounded-t-lg object-contain" src="https://placehold.co/800x800" alt="Arman Mohammadi"></img>
+              <img className="aspect-square w-full rounded-t-lg object-contain" src="../../public/Arman.png" alt="Arman Mohammadi"></img>
               <div className="p-4">
                 <div className="text-md font-medium">Arman Mohammadi</div>
                 <div className="text-sm text-slate-400">he/him</div>
-                <div className="mt-2 text-sm text-slate-600">---</div>
+                <div className="mt-2 text-sm text-white">
+                  I love camping.
+                </div>
               </div>
             </div>
           </div>

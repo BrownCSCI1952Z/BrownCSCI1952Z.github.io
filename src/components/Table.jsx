@@ -21,6 +21,7 @@ const Table = ({data}) => {
                 target="_blank"
                 rel="noopener noreferrer"
                 href={item.slides}
+                style={{ color: '#915EFF', 'font-weight': 'bold'}}
               >
                 Slides
               </a>

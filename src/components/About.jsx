@@ -10,7 +10,15 @@ const About = () => {
       <div className="flex flex-col gap-12 md:flex-row">
         <div className="flex flex-col gap-4">
           <p>
-            Ever wondered how robots can transform the world of art?
+            Ever wondered how robots can transform the world of art? Fill The&nbsp;
+            <a 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="underline" 
+              href="https://docs.google.com/forms/d/1ZCr0XjrhX_qgYF9THIPDmxqc-NccZFIG0UV9KqtPiJA/edit"
+              style={{ color: '#915EFF', 'font-weight': 'bold'}}
+              >Form</a>
+            &nbsp;to Get your spot!
           </p>
           <p>
             CS1952Z invites students to explore art through robotics, 
