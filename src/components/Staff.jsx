@@ -67,12 +67,13 @@ const Staff = () => {
           <div className="flex flex-col gap-2 p-16 pb-0">
             <h3 className="text-2xl font-medium">TA</h3>
             <div className="frosted flex flex-col rounded-lg bg-violet-500">
-              <img className="aspect-square w-full rounded-t-lg object-contain" src="../../public/Fuka.jpeg" alt="Fuka Ikeda"></img>
+              <img className="aspect-square w-full rounded-t-lg object-contain" src="../../public/Fuka.png" alt="Fuka Ikeda"></img>
               <div className="p-4">
                 <div className="text-md font-medium">Fuka Ikeda</div>
-                <div className="text-sm text-slate-400">(pronouns)</div>
+                <div className="text-sm text-slate-400">she/her</div>
                 <div className="mt-2 text-sm italic text-white">
-                  ---
+                I’m a junior from Japan doing Computer Science and Design Engineering! &nbsp;
+                I love pets (both alive and robot… wait are robots alive?) so please bring your dog to lab (maybe not)
                 </div>
               </div>
             </div>

@@ -4,7 +4,7 @@ import { styles } from "../styles";
 import { SectionWrapper } from "../hoc";
 import { fadeIn, textVariant } from "../utils/motion";
 import Table from "./Table";
-import { labs } from "../constants/labs";
+import { lectures } from "../constants/lectures";
 
 const Lectures = () => {
   return (
@@ -21,7 +21,7 @@ const Lectures = () => {
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
-        <Table data={labs}/>
+        <Table data={lectures}/>
       </div>
     </>
   );

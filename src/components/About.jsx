@@ -4,21 +4,16 @@ import { SectionWrapper } from "../hoc";
 const About = () => {
   return (
     <section id="home" className="flex flex-col gap-6 pt-32 md:pt-32">
+      <h2 className="text-6xl font-semibold md:text-6xl">
+        <strong>Application Form:</strong> <a target="_blank" rel="noopener noreferrer" className="underline" href="https://forms.gle/VdzaNtEv5mEdgwQd6">Found Here</a>
+      </h2>
       <h2 className="text-3xl font-semibold md:text-4xl">
         Welcome to Robots as a Medium!
       </h2>
       <div className="flex flex-col gap-12 md:flex-row">
         <div className="flex flex-col gap-4">
           <p>
-            Ever wondered how robots can transform the world of art? Fill The&nbsp;
-            <a 
-              target="_blank" 
-              rel="noopener noreferrer" 
-              className="underline" 
-              href="https://docs.google.com/forms/d/1ZCr0XjrhX_qgYF9THIPDmxqc-NccZFIG0UV9KqtPiJA/edit"
-              style={{ color: '#915EFF', 'font-weight': 'bold'}}
-              >Form</a>
-            &nbsp;to Get your spot!
+            Ever wondered how robots can transform the world of art?
           </p>
           <p>
             CS1952Z invites students to explore art through robotics, 
