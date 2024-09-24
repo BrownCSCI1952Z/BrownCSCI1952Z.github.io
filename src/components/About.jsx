@@ -4,6 +4,9 @@ import { SectionWrapper } from "../hoc";
 const About = () => {
   return (
     <section id="home" className="flex flex-col gap-6 pt-32 md:pt-32">
+      <h2 className="text-6xl font-semibold md:text-6xl">
+        <strong>Application Form:</strong> <a target="_blank" rel="noopener noreferrer" className="underline" href="https://forms.gle/VdzaNtEv5mEdgwQd6">Found Here</a>
+      </h2>
       <h2 className="text-3xl font-semibold md:text-4xl">
         Welcome to Robots as a Medium!
       </h2>

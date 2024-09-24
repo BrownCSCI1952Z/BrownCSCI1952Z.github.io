@@ -21,7 +21,7 @@ const Labs = () => {
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
-        <Table data={labs}/>
+        <Table data={labs} lecture={true}/>
       </div>
     </>
   );
