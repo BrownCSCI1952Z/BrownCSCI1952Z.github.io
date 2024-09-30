@@ -20,8 +20,8 @@ export const labs = [
     {
       topic: "Under the Hood",
       date: "TBD",
-      // slides: "https://docs.google.com/document/d/1xpC-8qipxNEd38Vj2ukZMOZu1TyvFzL6HBJisOe5zMc/edit#heading=h.pee6crlpaxz6",
-      // submission_folder: "https://drive.google.com/drive/u/0/folders/15tPWdEd-YNrtXptmUJyu6LMTV-mxs43_",
+      slides: "https://docs.google.com/document/d/1xpC-8qipxNEd38Vj2ukZMOZu1TyvFzL6HBJisOe5zMc/edit#heading=h.pee6crlpaxz6",
+      submission_folder: "https://drive.google.com/drive/u/0/folders/15tPWdEd-YNrtXptmUJyu6LMTV-mxs43_",
     },
     {
       topic: "Interactive Flight",
