@@ -37,12 +37,12 @@ const Staff = () => {
           <div className="flex flex-col gap-2 p-16 pb-0">
             <h3 className="text-2xl font-medium">Professor</h3>
             <div className="frosted flex flex-col rounded-lg bg-violet-500">
-              <img className="aspect-square w-full rounded-t-lg object-contain" src="https://placehold.co/800x800" alt="Eric Ewing"></img>
+              <img className="aspect-square w-full rounded-t-lg object-contain" src="../Eric_Ewing.jpg" alt="Eric Ewing"></img>
               <div className="p-4">
                 <div className="text-md font-medium">Eric Ewing</div>
-                <div className="text-sm text-slate-400">(pronouns)</div>
-                <div className="mt-2 text-sm italic text-slate-600">
-                  ---
+                <div className="text-sm text-slate-400">he/him</div>
+                <div className="mt-2 text-sm italic text-white">
+                  THE GOAT HIMSELF.
                 </div>
               </div>
             </div>
@@ -50,7 +50,7 @@ const Staff = () => {
           <div className="flex flex-col gap-2 p-16 pb-0">
             <h3 className="text-2xl font-medium">Head TA</h3>
             <div className="frosted flex flex-col rounded-lg bg-violet-500">
-              <img className="aspect-square w-full rounded-t-lg object-contain" src="../../public/Narek.png" alt="Narek Harutyunyan"></img>
+              <img className="aspect-square w-full rounded-t-lg object-contain" src="../Narek.png" alt="Narek Harutyunyan"></img>
               <div className="p-4">
                 <div className="text-md font-medium">Narek Harutyunyan</div>
                 <div className="text-sm text-slate-400">he/him</div>
@@ -67,7 +67,7 @@ const Staff = () => {
           <div className="flex flex-col gap-2 p-16 pb-0">
             <h3 className="text-2xl font-medium">TA</h3>
             <div className="frosted flex flex-col rounded-lg bg-violet-500">
-              <img className="aspect-square w-full rounded-t-lg object-contain" src="../../public/Fuka.png" alt="Fuka Ikeda"></img>
+              <img className="aspect-square w-full rounded-t-lg object-contain" src="../Fuka.png" alt="Fuka Ikeda"></img>
               <div className="p-4">
                 <div className="text-md font-medium">Fuka Ikeda</div>
                 <div className="text-sm text-slate-400">she/her</div>
@@ -81,7 +81,7 @@ const Staff = () => {
           <div className="flex flex-col gap-2 p-16 pb-0">
             <h3 className="text-2xl font-medium">TA</h3>
             <div className="frosted flex flex-col rounded-lg bg-violet-500">
-              <img className="aspect-square w-full rounded-t-lg object-contain" src="../../public/Arman.png" alt="Arman Mohammadi"></img>
+              <img className="aspect-square w-full rounded-t-lg object-contain" src="../Arman.png" alt="Arman Mohammadi"></img>
               <div className="p-4">
                 <div className="text-md font-medium">Arman Mohammadi</div>
                 <div className="text-sm text-slate-400">he/him</div>
