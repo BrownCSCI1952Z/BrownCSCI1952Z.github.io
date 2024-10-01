@@ -8,11 +8,12 @@ on:
     branches: ["main"]
   pull_request:
     branches: ["main"]
-
+  
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     strategy:
       matrix:
         node-version: [22.x]
