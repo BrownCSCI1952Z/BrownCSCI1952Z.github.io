@@ -27,7 +27,7 @@ export const labs = [
     topic: "Interactive Flight",
     date: "10/8",
     slides: "https://docs.google.com/document/d/1N5PItaH9ORcvCbR5XF6hZH_w1PWafjPr7nfS6qwuVtI/edit#heading=h.pee6crlpaxz6",
-    submission_folder: "https://drive.google.com/drive/u/0/folders/1GHorP2nAfe_vl_p6D_TLsfbYuE2M3oIP",
+    submission_folder: "https://drive.google.com/drive/u/0/folders/1GHorP2nAfe_vl_p6D_TLsfbYuE2M3oIP?q=sharedwith:public%20parent:1GHorP2nAfe_vl_p6D_TLsfbYuE2M3oIP",
   },
   {
     topic: "Bigger Robots",
