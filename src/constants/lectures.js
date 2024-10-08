@@ -17,7 +17,7 @@ export const lectures = [
   {
     topic: "Robot State & Pose",
     date: "09/17",
-    slides: "https://docs.google.com/presentation/d/1j0meTdLHQaFitEsQg5BKWsFWLEm0e-dcLiWQQ9eauvM/edit?usp=sharing",
+    slides: "https://docs.google.com/presentation/d/1WENQsRs09deht9sJxsm8yItPQ1ggJ0hpoTi7PA2BF4s/edit?usp=sharing",
   },
   {
     topic: "Feedback Control",
@@ -27,47 +27,31 @@ export const lectures = [
   {
     topic: "Trajectories",
     date: "09/19",
-    // slides: "https://docs.google.com/presentation/d/1F4A1ctSRteDP1aNJr2wOmqYLQjxvLMFlRnyEzJiyvDg/edit#slide=id.g2b6d918aa3c_0_405",
+    slides: "https://docs.google.com/presentation/d/1oW9k3oVM06Fa5Zv3UOMiQcxHKY5uUdmspym5DAT5bWM/edit?usp=drive_link",
   },
   {
-    topic: "Final Project Group Form and/or Configuration Spaces Topology",
+    topic: "",
     date: "09/24",
     // slides: "https://docs.google.com/presentation/d/1iuOvmYFoPFBLvm7hFMDjzHfYbwm1V_dFU6BEiL8_f1M/edit#slide=id.p1",
   },
   {
-    topic: "Sensing & Project Overview",
+    topic: "Brainstorm Day",
     date: "09/26",
     // slides: "https://docs.google.com/presentation/d/1chKqS8DxjsjHBxF6QyaRjhMsbUuo14Ke2AaXTwC-qTc/edit",
   },
   {
-    topic: "Guest Lecture?",
+    topic: "Kinematics",
     date: "10/01",
-    // slides: "https://docs.google.com",
+    slides: "https://docs.google.com/presentation/d/1oW9k3oVM06Fa5Zv3UOMiQcxHKY5uUdmspym5DAT5bWM/edit?usp=drive_link",
   },
-  
   {
-    topic: "Guest Lecture?",
+    topic: "ROS",
     date: "10/08",
-    // slides: "https://docs.google.com",
+    slides: "https://docs.google.com/presentation/d/1WENQsRs09deht9sJxsm8yItPQ1ggJ0hpoTi7PA2BF4s/edit?usp=sharing",
   },
   {
-    topic: "Guest Lecture?",
+    topic: "",
     date: "10/10",
     // slides: "https://docs.google.com",
-  },
-  {
-    topic: "Ground Robot Dynamics",
-    date: "10/15",
-    // slides: "https://docs.google.com",
-  },
-  {
-    topic: "Quadcopter Dynamics",
-    date: "10/01",
-    // slides: "https://docs.google.com",
-  },
-  {
-    topic: "Complex Sensors",
-    date: "10/01",
-    // slides: "https://docs.google.com/presentation/d/1mbUbRkioDT1YRyd86eMAFqzps5y50yWQhmk7z8hd5m0/edit#slide=id.p1",
   },
 ];
