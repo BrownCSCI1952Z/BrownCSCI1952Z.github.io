@@ -32,7 +32,7 @@ export const labs = [
   {
     topic: "Bigger Robots",
     date: "10/15",
-    // slides: "https://docs.google.com/document/d/1sEdXiwXZ9ko0ErFWEAgBPCKqcPdVHAo94d-172DhugM/edit#heading=h.pee6crlpaxz6",
-    // submission_folder: "https://drive.google.com/drive/u/0/folders/1gNBiS20g2ByTYFxPEeIg11X704MwnTcV",
+    slides: "https://docs.google.com/document/d/1sEdXiwXZ9ko0ErFWEAgBPCKqcPdVHAo94d-172DhugM/edit#heading=h.pee6crlpaxz6",
+    submission_folder: "https://drive.google.com/drive/u/0/folders/1gNBiS20g2ByTYFxPEeIg11X704MwnTcV",
   },
 ];
